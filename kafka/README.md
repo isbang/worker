@@ -2,4 +2,4 @@
 
 # Usage
 
-Please checkout [example code](./example)
+Please checkout [example code](./example/example.go)
